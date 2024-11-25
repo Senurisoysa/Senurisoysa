@@ -7,11 +7,17 @@
 
 ---
 
-### 🛠 About Me
+-I’m a passionate frontend developer from India who loves creating visually stunning and responsive web applications. With a strong focus on delivering exceptional user experiences, I specialize in React.js, Tailwind CSS, and other cutting-edge frontend technologies.
 
-- 🌱 **Currently Learning**: Advanced Frontend Development with React.js and Backend Integration.
-- 💻 **Skills**: Crafting intuitive and responsive UI designs.
-- 👩‍💻 **Projects**: Actively contributing to open-source projects.
+-🌱 **Currently Exploring:**
+
+-Advanced JavaScript frameworks like Next.js.
+-Seamless backend integrations with Node.js and Firebase.
+-💡 **What I Enjoy:**
+
+-Transforming ideas into elegant, functional designs.
+-Solving real-world problems through innovative UI solutions.
+-Collaborating on exciting projects with creative teams.
 - 📫 **Contact Me**: [senurisoysa@gmail.com](mailto:senuri.soysa@gmail.com)
 
 ---
