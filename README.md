@@ -12,7 +12,7 @@
 - 🌱 **Currently Learning**: Advanced Frontend Development with React.js and Backend Integration.
 - 💻 **Skills**: Crafting intuitive and responsive UI designs.
 - 👩‍💻 **Projects**: Actively contributing to open-source projects.
-- 📫 **Contact Me**: [senurisoysa@example.com](mailto:senuri.soysa@gmail.com)
+- 📫 **Contact Me**: [senurisoysa@gmail.com](mailto:senuri.soysa@gmail.com)
 
 ---
 
