@@ -12,7 +12,7 @@
 - 🌱 **Currently Learning**: Advanced Frontend Development with React.js and Backend Integration.
 - 💻 **Skills**: Crafting intuitive and responsive UI designs.
 - 👩‍💻 **Projects**: Actively contributing to open-source projects.
-- 📫 **Contact Me**: [senurisoysa@example.com](mailto:senurisoysa@example.com)
+- 📫 **Contact Me**: [senurisoysa@example.com](mailto:senuri.soysa@gmail.com)
 
 ---
 
@@ -20,12 +20,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/senurisoysa" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/senurisoysa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://dev.to/senurisoysa" target="blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" height="40" width="40" />
   </a>
 </p>
 
@@ -84,7 +78,4 @@
 
 - 🧩 I love solving coding puzzles and exploring the latest UI/UX trends!
 
----
 
-### 💼 Portfolio
-- 🔗 [Check out my portfolio website](https://senurisoysa.dev)
