@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/senurisoysa" target="blank">
+  <a href="https://www.linkedin.com/in/senuri-soysa-1b2622367/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
